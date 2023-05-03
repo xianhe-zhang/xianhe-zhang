@@ -5,12 +5,12 @@
 <h1 align="center">Hi there 👋, I'm Mario! Nice to meet you! 😎</h1>
 <h3 align="center">Northeastern Unviersity - Student; Currently interning at Bloomberg; Ex-intern at Amazon, PwC</h3>
   
-- 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **May 2024**
-- 💼 I'm currently interning in **Bloomberg**
-- 🔭 I’m currently working on **Cloud distributed system & Generative AI applications**  
-- 📚 I’m currently learning **Big data ecosystem** 
-- ⚡ Fun fact **Loving all board sports! Loving the nature!**. 
-<div />. 
+- 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **May 2024**.
+- 💼 I'm currently interning in **Bloomberg**.
+- 🔭 I’m currently working on **Cloud distributed system & Generative AI applications**.
+- 📚 I’m currently learning **Big data ecosystem**.
+- ⚡ Fun fact **Loving all board sports! Loving the nature!**
+<div />
 
 🌱 **OPEN TO NEW GRAD SOFTWARE ENGINEER POSITION (U.S)🌱**🌱
 - **Reach me   👉👉👉 xianhe1004@gmail.com**
@@ -21,11 +21,11 @@
 
 
 
-
 <!-- 下面是奖杯 -->
 <div>
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianhe-zhang&count_private=true&show_icons=true" alt="Xianhe-Zhang's GitHub stats" />
+</div>
   </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianhe-zhang&count_private=true&show_icons=true&theme=radical" alt="Xianhe-Zhang's GitHub stats" />
