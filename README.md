@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Cloud distributed system & Generative AI applications**.
 - 📚 I’m currently learning **Big data ecosystem**.
 - ⚡ Fun fact **Loving all board sports! Loving the nature!**
-<div />
+<div />      
 
 🌱 **OPEN TO NEW GRAD SOFTWARE ENGINEER POSITION (U.S)🌱**🌱
 - **Reach me   👉👉👉 xianhe1004@gmail.com**
@@ -21,28 +21,12 @@
 
 
 
-
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true" alt="ZxBing0066's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxBing0066&show_icons=true&layout=compact" /> -->
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true&theme=radical" alt="ZxBing0066's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxBing0066&show_icons=true&theme=radical&layout=compact" /> -->
-  </a>
-</div>
-
-![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 <!-- 下面是奖杯 -->
 <div>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianhe-zhang&count_private=true&show_icons=true" alt="Xianhe-Zhang's GitHub stats" />
 </div>
-  </a> -->
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianhe-zhang&count_private=true&show_icons=true&theme=radical" alt="Xianhe-Zhang's GitHub stats" />
   </a>
@@ -50,3 +34,4 @@
 
 <!-- 贪吃蛇 -->
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
