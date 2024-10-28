@@ -3,12 +3,10 @@
 <!-- 下面是自我介绍 -->
 
 <h1 align="center">Hi there 👋, I'm Mario! Nice to meet you! 😎</h1>
-<h3 align="center">Northeastern Unviersity - Student; Currently interning at Bloomberg; Ex-intern at Amazon, PwC</h3>
+<h3 align="center">SDE @ Bloomberg, NYC; Northeastern Unviersity - Alumi; Ex-intern at Amazon, PwC</h3>
   
-- 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **May 2024**.
-- 💼 I'm currently interning in **Bloomberg**.
-- 🔭 I’m currently working on **Cloud distributed system & Generative AI applications**.
-- 📚 I’m currently learning **Big data ecosystem**.
+- 🚀 I'm a software engineer @ Bloomberg & NEU Alumni
+- 🔭 I’m currently working on **Cloud distributed system & Generative AI applications** in Security domain.
 - ⚡ Fun fact **Loving all board sports! Loving the nature!**
 <div />      
 
